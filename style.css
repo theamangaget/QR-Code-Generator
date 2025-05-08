@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url("secure_background.png");
+    background-image: url('https://i.postimg.cc/YScCBJrf/secure-background.png');
 
 }
 .container{
