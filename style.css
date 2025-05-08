@@ -10,7 +10,7 @@ body{
     align-items: center;
     height: 100vh;
     background-image: url('https://i.postimg.cc/YScCBJrf/secure-background.png');
-
+    background-size: auto;
 }
 .container{
     border-radius: 10px;
